@@ -1,6 +1,3 @@
-# Lakshmi-Harika-
-Performe different set operations 
-
 # Program to perform different set operations like in mathematics 
 
 # define three sets
